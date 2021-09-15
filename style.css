@@ -263,6 +263,7 @@ ul{
 }
 .app-logo{
     margin-top: 20px;
+    display: flex;
 }
 .app-logo img {
     width: 140px;
@@ -428,7 +429,9 @@ td:last-child{
 th:last-child{
     text-align: right;
 }
-
+.cartimg{
+    margin-right: 10px;
+}
 
 /* accouunt page */
 .account-page{
@@ -605,5 +608,11 @@ form a{
         margin: 10px 110px;
         width: 80px;
         padding: 8px;
+    }
+     .app-logo img {
+        width: 90px;
+    }
+    .cartimg{
+        margin-left: 2px;
     }
 }
