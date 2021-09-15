@@ -412,7 +412,7 @@ td a{
 td img{
     width:80px ;
     height:80px ;
-    margin-left:10px ;
+    margin-left:1px ;
 } 
 .total-price{
     display:flex;
