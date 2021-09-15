@@ -612,7 +612,9 @@ form a{
      .app-logo img {
         width: 90px;
     }
-    .cartimg{
-        margin-left: 2px;
-    }
+    td img{
+    width:80px ;
+    height:80px ;
+    margin-left:1px ;
+} 
 }
